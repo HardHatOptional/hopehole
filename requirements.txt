@@ -1,0 +1,4 @@
+watchdog
+langchain
+openai
+python-dotenv
